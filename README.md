@@ -1,8 +1,8 @@
 - Hi There!👋 , I’m Shriram Rai
 - 👀 I’m interested in Problem-Solving and Web Development
 - 🌱 I’m graduated from NIT Jalandhar
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on open source project
+- 📫 Mail to me at shriramrai2710@gmail.com
 
 <!---
 Shriram313/Shriram313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
