@@ -1,6 +1,6 @@
 - Hi There!👋 , I’m Shriram Rai
 - 👀 I’m interested in Problem-Solving and Web Development
-- 🌱 I’m currently studying at NIT Jalandhar
+- 🌱 I’m graduated from NIT Jalandhar
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
